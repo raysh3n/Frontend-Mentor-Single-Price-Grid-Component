@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-yl4edH4m_b)
+- Live Site URL: [here](https://fem-single-price-grid-raysh3n.netlify.app/)
 
 ## My process
 
