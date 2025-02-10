@@ -28,8 +28,10 @@ Users should be able to:
 - See a hover state on desktop for the Sign Up call-to-action
 
 ### Screenshot
-
-![](./screenshot.jpg)
+<br>Mobile<br/>
+![](./mobile%20Screenshot%202025-02-10%20200014.png)
+<br>Desktop<br/>
+![](./desktop%20Screenshot%202025-02-10%20195956.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
